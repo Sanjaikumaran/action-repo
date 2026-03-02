@@ -30,4 +30,3 @@ GitHub Action
 → Webhook server receives event  
 → MongoDB stores event  
 → UI polls and displays activity  
-
