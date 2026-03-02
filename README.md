@@ -31,5 +31,3 @@ GitHub Action
 → MongoDB stores event  
 → UI polls and displays activity  
 
----
-## testing webhook
