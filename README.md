@@ -32,7 +32,3 @@ GitHub Action
 → UI polls and displays activity  
 
 ---
-
-## ⚙️ GitHub Actions Workflow
-
-Location:
